@@ -92,6 +92,3 @@ python yuz_algila_test.py
 
 Eren Erciyas
 2023688028
-
-```
-
