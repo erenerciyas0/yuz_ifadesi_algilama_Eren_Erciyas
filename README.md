@@ -90,7 +90,8 @@ python yuz_algila_test.py
 
 ## 👨‍🏫 Proje Bilgisi
 
-Bu çalışma, \[Ders Adı] dersi kapsamında, \[Ad Soyad] tarafından 2025 yılı Bahar döneminde teslim edilmek üzere hazırlanmıştır.
+Eren Erciyas
+2023688028
 
 ```
 
